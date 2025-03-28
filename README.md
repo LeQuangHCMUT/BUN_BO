@@ -2,6 +2,12 @@
 # BUN_BO
 This repository contains my solution for the **SHL_2025_Qualifiers** challenge, using the **OpenPack dataset S1** to predict the `operation` based on sensor data. **Note:** The `action` column is not used (or included) during training.
 
+## Author
+LeQuang
+
+## Date
+28/03/2025
+
 ## 1. Introduction
 
 - **Objective:** Build a model to predict the `operation` based on sensor data.
